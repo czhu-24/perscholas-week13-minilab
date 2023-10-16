@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+npm-debug.log
+yarn-error.log
+
+# Optional eslint cache
+.eslintcache
+
+# Optional flow type
+.flowconfig
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for storing the process id
+logs
+
+# Environment
+.env
+
+# Error reports
+npm-debug.log
+yarn-error.log
+
+# Debug log file
+debug.log
